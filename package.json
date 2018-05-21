@@ -17,8 +17,11 @@
   "homepage": "https://github.com/sashatherocket/travel-site#readme",
   "devDependencies": {
     "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-postcss": "^7.0.1",
+    "gulp-rename": "^1.2.3",
+    "gulp-svg-sprite": "^1.3.1",
     "gulp-watch": "^5.0.0",
     "normalize.css": "^8.0.0",
     "postcss-import": "^11.1.0",
